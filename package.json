@@ -1,0 +1,23 @@
+{
+  "name": "mongodb_simple_clone",
+  "version": "1.0.0",
+  "description": "一个简单的mongodb数据库数据复制(跨服务器)",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golangaccount/mongodb_simple_clone.git"
+  },
+  "author": "flypig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golangaccount/mongodb_simple_clone/issues"
+  },
+  "homepage": "https://github.com/golangaccount/mongodb_simple_clone#readme",
+  "dependencies": {
+    "mongodb": "3.3.2",
+    "promise": "8.0.3"
+  }
+}
